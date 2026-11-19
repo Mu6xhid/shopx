@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303905982207",
+    "project_id": "shopx-6f20e",
+    "storage_bucket": "shopx-6f20e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303905982207:android:d197285acc5a6fdb362eca",
+        "android_client_info": {
+          "package_name": "com.example.shopx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBREGJRjMpW_Q8MeHPRQTki9E5KXVTn6CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
